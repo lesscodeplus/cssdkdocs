@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("met",["Variable"],[["methodInfo",,[["LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.DelegateEncaps",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.DelegateEncaps.methodInfo","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.DelegateEncaps:methodInfo"]]]]);

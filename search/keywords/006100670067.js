@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("agg",["Class"],[["Aggregator",,[["LessCodeEngine.Gizmos.Blocks.DataManipulation",,,,0,"File:LessCodeEngine.Gizmos/Blocks/DataManipulation/Aggregator.cs:LessCodeEngine.Gizmos.Blocks.DataManipulation.Aggregator","CSharpClass:LessCodeEngine.Gizmos.Blocks.DataManipulation.Aggregator"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sql",["Property"],[["Sql",,[["LessCodeEngine.Gizmos.DataManagerCore.RelationalInsertStructure",,,,0,"File:LessCodeEngine.Gizmos/DataManagerCore/RelationalInsertStructure.cs:LessCodeEngine.Gizmos.DataManagerCore.RelationalInsertStructure.Sql","CSharpClass:LessCodeEngine.Gizmos.DataManagerCore.RelationalInsertStructure:Sql"]]]]);

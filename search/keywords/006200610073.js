@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("bas",["Class"],[["BasicAuth",,[["LessCodeEngine.Gizmos.Blocks.Security",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Security/BasicAuth.cs:LessCodeEngine.Gizmos.Blocks.Security.BasicAuth","CSharpClass:LessCodeEngine.Gizmos.Blocks.Security.BasicAuth"]]]]);

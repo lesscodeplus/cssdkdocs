@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cos",["Class"],[["Cos",,[["LessCodeEngine.Gizmos.Blocks.Functions.Number",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Number/Cos.cs:LessCodeEngine.Gizmos.Blocks.Functions.Number.Cos","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Number.Cos"]]]]);

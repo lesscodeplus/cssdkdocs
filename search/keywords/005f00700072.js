@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("_pr",["Variable"],[["_provider",,[["LessCodeEngine.Dependencies.DependencyConfiguration",,,,0,"File:LessCodeEngine.Dependencies.Functions/DependencyConfiguration.cs:LessCodeEngine.Dependencies.DependencyConfiguration._provider","CSharpClass:LessCodeEngine.Dependencies.DependencyConfiguration:_provider"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("ifb",["Enumeration"],[["IfBlockEvaluatedState",,[["LessCodeEngine.Gizmos.Modules.ExpressionEvaluator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.IfBlockEvaluatedState","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator:IfBlockEvaluatedState"]]]]);

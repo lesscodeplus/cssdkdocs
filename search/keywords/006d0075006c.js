@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("mul",["Variable"],[["Multiply",,[["LessCodeEngine.Gizmos.Modules.ExpressionOperator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionOperator.Multiply","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionOperator:Multiply"]]]]);

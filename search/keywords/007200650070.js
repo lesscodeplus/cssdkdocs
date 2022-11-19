@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("rep",["Class"],[["Replace",,[["LessCodeEngine.Gizmos.Blocks.Functions.String",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/String/Replace.cs:LessCodeEngine.Gizmos.Blocks.Functions.String.Replace","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.String.Replace"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("run",["Class"],[["RunCommand",,[["LessCodeEngine.Cli.Commands",,,,0,"File:LessCodeEngine.Cli/Commands/RunCommand.cs:LessCodeEngine.Cli.Commands.RunCommand","CSharpClass:LessCodeEngine.Cli.Commands.RunCommand"]]]]);

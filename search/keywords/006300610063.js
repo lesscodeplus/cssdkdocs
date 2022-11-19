@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cac",["Property"],[["CacheTypesResolutions",,[["LessCodeEngine.Gizmos.Modules.ExpressionEvaluator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.CacheTypesResolutions","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator:CacheTypesResolutions"]]]]);

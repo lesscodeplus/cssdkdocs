@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("flo",["Class"],[["Floor",,[["LessCodeEngine.Gizmos.Blocks.Functions.Number",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Number/Floor.cs:LessCodeEngine.Gizmos.Blocks.Functions.Number.Floor","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Number.Floor"]]]]);

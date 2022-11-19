@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("arr",["Class"],[["ArrayVariable",,[["LessCodeEngine.Gizmos.Blocks.Variables",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Variables/ArrayVariable.cs:LessCodeEngine.Gizmos.Blocks.Variables.ArrayVariable","CSharpClass:LessCodeEngine.Gizmos.Blocks.Variables.ArrayVariable"]]]]);

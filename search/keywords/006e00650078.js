@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("nex",["Variable"],[["nextIsEndOfExpressionRegex",,[["LessCodeEngine.Gizmos.Modules.ExpressionEvaluator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.nextIsEndOfExpressionRegex","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator:nextIsEndOfExpressionRegex"]]]]);

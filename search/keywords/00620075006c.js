@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("bul",["Function"],[["BulkOperation",,[["LessCodeEngine.Gizmos.Blocks.MySql.Helpers.MySqlSaver",,,,0,"File:LessCodeEngine.Gizmos/Blocks/MySql/Helpers/MySqlSaver.cs:LessCodeEngine.Gizmos.Blocks.MySql.Helpers.MySqlSaver.BulkOperation","CSharpClass:LessCodeEngine.Gizmos.Blocks.MySql.Helpers.MySqlSaver:BulkOperation"]]]]);

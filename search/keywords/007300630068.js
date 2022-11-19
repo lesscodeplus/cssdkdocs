@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("sch",["Class"],[["SchemaCreateCommand",,[["LessCodeEngine.Gizmos.Commands.DataManager",,,,0,"File:LessCodeEngine.Gizmos/Commands/DataManager/SchemaCreateCommand.cs:LessCodeEngine.Gizmos.Commands.DataManager.SchemaCreateCommand","CSharpClass:LessCodeEngine.Gizmos.Commands.DataManager.SchemaCreateCommand"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("cla",["Class"],[["ClassOrEnumType",,[["LessCodeEngine.Gizmos.Modules",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ClassOrEnumType","CSharpClass:LessCodeEngine.Gizmos.Modules.ClassOrEnumType"]]]]);

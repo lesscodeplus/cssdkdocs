@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("mux",["Variable"],[["muxer",,[["LessCodeEngine.GizmoLibraries.Redis.RedisManager",,,,0,"File:LessCodeEngine.GizmoLibraries/Redis/RedisManager.cs:LessCodeEngine.GizmoLibraries.Redis.RedisManager.muxer","CSharpClass:LessCodeEngine.GizmoLibraries.Redis.RedisManager:muxer"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("fir",["Class"],[["First",,[["LessCodeEngine.Gizmos.Blocks.Functions.Logic",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Array/First.cs:LessCodeEngine.Gizmos.Blocks.Functions.Logic.First","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Logic.First"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("isb",["Property"],[["IsBinary",,[["LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode",,,,0,"File:LessCodeEngine.Gizmos/Blocks/ControlFlow/WorkFlowNode.cs:LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode.IsBinary","CSharpClass:LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode:IsBinary"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("bre",["Class"],[["BreakLoop",,[["LessCodeEngine.Gizmos.Blocks.ControlFlow",,,,0,"File:LessCodeEngine.Gizmos/Blocks/ControlFlow/BreakLoop.cs:LessCodeEngine.Gizmos.Blocks.ControlFlow.BreakLoop","CSharpClass:LessCodeEngine.Gizmos.Blocks.ControlFlow.BreakLoop"]]]]);

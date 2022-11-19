@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("is",["Variable"],[["Is",,[["LessCodeEngine.Gizmos.Modules.ExpressionOperator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionOperator.Is","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionOperator:Is"]]]]);

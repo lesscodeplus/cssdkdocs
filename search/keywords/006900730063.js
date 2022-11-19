@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("isc",["Property"],[["IsComparision",,[["LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode",,,,0,"File:LessCodeEngine.Gizmos/Blocks/ControlFlow/WorkFlowNode.cs:LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode.IsComparision","CSharpClass:LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode:IsComparision"]]]]);

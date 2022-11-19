@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("pow",["Class"],[["Power",,[["LessCodeEngine.Gizmos.Blocks.Functions.Number",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Number/Power.cs:LessCodeEngine.Gizmos.Blocks.Functions.Number.Power","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Number.Power"]]]]);

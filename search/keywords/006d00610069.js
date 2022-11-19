@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("mai",["Function"],[["Main",,[["LessCodeEngine.Cli.Program",,,,0,"File:LessCodeEngine.Cli/Program.cs:LessCodeEngine.Cli.Program.Main","CSharpClass:LessCodeEngine.Cli.Program:Main"]]]]);
