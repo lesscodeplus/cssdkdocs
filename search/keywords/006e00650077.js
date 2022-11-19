@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("new",["Function"],[["NewtonsoftJsonToLessCode",,[["LessCodeEngine.Helpers.TypeConversionExtensions",,,,0,"File:LessCodeEngine.Helpers/TypeConversionExtensions.cs:LessCodeEngine.Helpers.TypeConversionExtensions.NewtonsoftJsonToLessCode","CSharpClass:LessCodeEngine.Helpers.TypeConversionExtensions:NewtonsoftJsonToLessCode"]]]]);

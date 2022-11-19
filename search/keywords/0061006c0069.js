@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("ali",["Property"],[["Alias",,[["LessCodeEngine.Sdk.LessCodeUrn",,,,0,"File:LessCodeEngine.Sdk/LessCodeUrn.cs:LessCodeEngine.Sdk.LessCodeUrn.Alias","CSharpClass:LessCodeEngine.Sdk.LessCodeUrn:Alias"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ali",["Property"],[["Alias",,[["LessCodeEngine.Sdk.LessCodeUrn",,,,0,"File:LessCodeUrn.cs:LessCodeEngine.Sdk.LessCodeUrn.Alias","CSharpClass:LessCodeEngine.Sdk.LessCodeUrn:Alias"]]]]);

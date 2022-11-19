@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("roo",["Property"],[["RootNode",,[["LessCodeEngine.Sdk.Blueprint.IBlueprint",,,,0,"File:LessCodeEngine.Sdk/Blueprint/IBlueprint.cs:LessCodeEngine.Sdk.Blueprint.IBlueprint.RootNode","CSharpClass:LessCodeEngine.Sdk.Blueprint.IBlueprint:RootNode"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("roo",["Property"],[["RootNode",,[["LessCodeEngine.Sdk.Blueprint.IBlueprint",,,,0,"File:Blueprint/IBlueprint.cs:LessCodeEngine.Sdk.Blueprint.IBlueprint.RootNode","CSharpClass:LessCodeEngine.Sdk.Blueprint.IBlueprint:RootNode"]]]]);

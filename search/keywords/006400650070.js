@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("dep",["Property"],[["DependencyResolver",,[["LessCodeEngine.Sdk.AbstractElement",,,,0,"File:LessCodeEngine.Sdk/AbstractElement.cs:LessCodeEngine.Sdk.AbstractElement.DependencyResolver","CSharpClass:LessCodeEngine.Sdk.AbstractElement:DependencyResolver"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("dep",["Property"],[["DependencyResolver",,[["LessCodeEngine.Sdk.AbstractElement",,,,0,"File:AbstractElement.cs:LessCodeEngine.Sdk.AbstractElement.DependencyResolver","CSharpClass:LessCodeEngine.Sdk.AbstractElement:DependencyResolver"]]]]);

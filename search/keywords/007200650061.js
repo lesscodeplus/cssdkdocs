@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("rea",["Function"],[["Read",,[["LessCodeEngine.Sdk.Blueprint.IBlueprintReader",,,,0,"File:LessCodeEngine.Sdk/Blueprint/IBlueprintReader.cs:LessCodeEngine.Sdk.Blueprint.IBlueprintReader.Read","CSharpClass:LessCodeEngine.Sdk.Blueprint.IBlueprintReader:Read"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("rea",["Function"],[["Read",,[["LessCodeEngine.Sdk.Blueprint.IBlueprintReader",,,,0,"File:Blueprint/IBlueprintReader.cs:LessCodeEngine.Sdk.Blueprint.IBlueprintReader.Read","CSharpClass:LessCodeEngine.Sdk.Blueprint.IBlueprintReader:Read"]]]]);

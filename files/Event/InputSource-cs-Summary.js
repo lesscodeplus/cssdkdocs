@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:Event/InputSource.cs","InputSource.cs");NDSummary.OnSummaryLoaded("File:Event/InputSource.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[760,0,1,"Types","LessCodeEngine.Sdk.Event.Types"],[761,0,0,"InputSource","LessCodeEngine.Sdk.Event.InputSource"]]);

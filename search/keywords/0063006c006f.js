@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("clo",["Function"],[["Clone",,[["LessCodeEngine.Helpers.HashMap",,,,0,"File:LessCodeEngine.Helpers/HashMap.cs:LessCodeEngine.Helpers.HashMap.Clone","CSharpClass:LessCodeEngine.Helpers.HashMap:Clone"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("rem",["Function"],[["RemoveKeys",,[["LessCodeEngine.Helpers.HashMap",,,,0,"File:LessCodeEngine.Helpers/HashMap.cs:LessCodeEngine.Helpers.HashMap.RemoveKeys","CSharpClass:LessCodeEngine.Helpers.HashMap:RemoveKeys"]]]]);

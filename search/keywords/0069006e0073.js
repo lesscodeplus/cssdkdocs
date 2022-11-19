@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("ins",["Property"],[["InstanceName",,[["LessCodeEngine.Sdk.AbstractBlock",,,,0,"File:LessCodeEngine.Sdk/AbstractBlock.cs:LessCodeEngine.Sdk.AbstractBlock.InstanceName","CSharpClass:LessCodeEngine.Sdk.AbstractBlock:InstanceName"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ins",["Property"],[["InstanceName",,[["LessCodeEngine.Sdk.AbstractBlock",,,,0,"File:AbstractBlock.cs:LessCodeEngine.Sdk.AbstractBlock.InstanceName","CSharpClass:LessCodeEngine.Sdk.AbstractBlock:InstanceName"]]]]);

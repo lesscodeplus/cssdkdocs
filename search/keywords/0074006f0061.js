@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("toa",["Function"],[["ToAnyTypeArray",,[["LessCodeEngine.Helpers.TypeConversionExtensions",,,,0,"File:LessCodeEngine.Helpers/TypeConversionExtensions.cs:LessCodeEngine.Helpers.TypeConversionExtensions.ToAnyTypeArray","CSharpClass:LessCodeEngine.Helpers.TypeConversionExtensions:ToAnyTypeArray"]]]]);

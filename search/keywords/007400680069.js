@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("thi",["Operator"],[["this",,[["LessCodeEngine.Helpers.HashMap",,,,0,"File:LessCodeEngine.Helpers/HashMap.cs:LessCodeEngine.Helpers.HashMap.this","CSharpClass:LessCodeEngine.Helpers.HashMap:this"]]]]);

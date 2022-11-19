@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("has",["Class"],[["HashMap",,[["LessCodeEngine.Helpers",,,,0,"File:LessCodeEngine.Helpers/HashMap.cs:LessCodeEngine.Helpers.HashMap","CSharpClass:LessCodeEngine.Helpers.HashMap"]]]]);

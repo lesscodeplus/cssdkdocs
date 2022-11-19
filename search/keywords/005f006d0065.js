@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("_me",["Function"],[["_merge",,[["LessCodeEngine.Helpers.HashMap",,,,0,"File:LessCodeEngine.Helpers/HashMap.cs:LessCodeEngine.Helpers.HashMap._merge","CSharpClass:LessCodeEngine.Helpers.HashMap:_merge"]]]]);

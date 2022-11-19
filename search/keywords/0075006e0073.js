@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("uns",["Function"],[["Unsubscribe",,[["LessCodeEngine.Sdk.Event.EventHandler",,,,0,"File:LessCodeEngine.Sdk/Event/EventHandler.cs:LessCodeEngine.Sdk.Event.EventHandler.Unsubscribe","CSharpClass:LessCodeEngine.Sdk.Event.EventHandler:Unsubscribe"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("uns",["Function"],[["Unsubscribe",,[["LessCodeEngine.Sdk.Event.EventHandler",,,,0,"File:Event/EventHandler.cs:LessCodeEngine.Sdk.Event.EventHandler.Unsubscribe","CSharpClass:LessCodeEngine.Sdk.Event.EventHandler:Unsubscribe"]]]]);

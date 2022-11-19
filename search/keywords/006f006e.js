@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("on",["Function"],[["On",,[["LessCodeEngine.Sdk.Event.IEventManager",,,,0,"File:LessCodeEngine.Sdk/Event/IEventManager.cs:LessCodeEngine.Sdk.Event.IEventManager.On","CSharpClass:LessCodeEngine.Sdk.Event.IEventManager:On"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("on",["Function"],[["On",,[["LessCodeEngine.Sdk.Event.IEventManager",,,,0,"File:Event/IEventManager.cs:LessCodeEngine.Sdk.Event.IEventManager.On","CSharpClass:LessCodeEngine.Sdk.Event.IEventManager:On"]]]]);

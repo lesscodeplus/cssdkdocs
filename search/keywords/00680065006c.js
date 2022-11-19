@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("hel",["Class"],[["HelperMethods",,[["LessCodeEngine.Helpers",,,,0,"File:LessCodeEngine.Helpers/HelperMethods.cs:LessCodeEngine.Helpers.HelperMethods","CSharpClass:LessCodeEngine.Helpers.HelperMethods"]]]]);

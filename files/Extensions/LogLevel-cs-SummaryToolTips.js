@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:Extensions/LogLevel.cs",{791:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype791\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">public enum</span> LogLevel</div></div></div>"});

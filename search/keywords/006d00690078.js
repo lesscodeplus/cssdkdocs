@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("mix",["Function"],[["Mixin",,[["LessCodeEngine.Helpers.HashMap",,,,0,"File:LessCodeEngine.Helpers/HashMap.cs:LessCodeEngine.Helpers.HashMap.Mixin","CSharpClass:LessCodeEngine.Helpers.HashMap:Mixin"]]]]);

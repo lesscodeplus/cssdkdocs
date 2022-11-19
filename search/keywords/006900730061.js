@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("isa",["Function"],[["IsAnyNullOrEmpty",,[["LessCodeEngine.Helpers.HelperMethods",,,,0,"File:LessCodeEngine.Helpers/HelperMethods.cs:LessCodeEngine.Helpers.HelperMethods.IsAnyNullOrEmpty","CSharpClass:LessCodeEngine.Helpers.HelperMethods:IsAnyNullOrEmpty"]]]]);

@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("tod",["Function"],[["ToDictionary",,[["LessCodeEngine.Helpers.HashMap",,,,0,"File:LessCodeEngine.Helpers/HashMap.cs:LessCodeEngine.Helpers.HashMap.ToDictionary","CSharpClass:LessCodeEngine.Helpers.HashMap:ToDictionary"]]]]);

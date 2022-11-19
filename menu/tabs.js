@@ -1,1 +1,1 @@
-﻿NDFramePage.OnLocationsLoaded([["File","files",0,"^File([0-9]*)$"],["Class","classes",1,"^([A-Za-z]+)Class$"]]);NDMenu.OnTabsLoaded([["File","Files","File:","files.js"],["Class",["Classes","LessCodeEngine"],"CSharpClass:LessCodeEngine.","classes.js"]]);
+﻿NDFramePage.OnLocationsLoaded([["File","files",0,"^File([0-9]*)$"],["Class","classes",1,"^([A-Za-z]+)Class$"]]);NDMenu.OnTabsLoaded([["File","Files","File:","files.js"],["Class",["Classes","LessCodeEngine","Sdk"],"CSharpClass:LessCodeEngine.Sdk.","classes.js"]]);

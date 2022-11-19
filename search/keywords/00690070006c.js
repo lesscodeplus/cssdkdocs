@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("ipl",["Interface"],[["IPluginManager",,[["LessCodeEngine.Sdk.Plugin",,,,0,"File:LessCodeEngine.Sdk/Plugin/IPluginManager.cs:LessCodeEngine.Sdk.Plugin.IPluginManager","CSharpClass:LessCodeEngine.Sdk.Plugin.IPluginManager"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("ipl",["Interface"],[["IPluginManager",,[["LessCodeEngine.Sdk.Plugin",,,,0,"File:Plugin/IPluginManager.cs:LessCodeEngine.Sdk.Plugin.IPluginManager","CSharpClass:LessCodeEngine.Sdk.Plugin.IPluginManager"]]]]);

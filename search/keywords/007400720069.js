@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("tri",["Function"],[["Trigger",,[["LessCodeEngine.Sdk.Event.IEventManager",,,,0,"File:LessCodeEngine.Sdk/Event/IEventManager.cs:LessCodeEngine.Sdk.Event.IEventManager.Trigger","CSharpClass:LessCodeEngine.Sdk.Event.IEventManager:Trigger"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("tri",["Function"],[["Trigger",,[["LessCodeEngine.Sdk.Event.IEventManager",,,,0,"File:Event/IEventManager.cs:LessCodeEngine.Sdk.Event.IEventManager.Trigger","CSharpClass:LessCodeEngine.Sdk.Event.IEventManager:Trigger"]]]]);

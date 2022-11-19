@@ -1,1 +1,1 @@
-﻿NDSearch.OnPrefixDataLoaded("scr",["Class"],[["ScriptingHelpers",,[["LessCodeEngine.Sdk.Scripting",,,,0,"File:LessCodeEngine.Sdk/Scripting/ScriptingHelpers.cs:LessCodeEngine.Sdk.Scripting.ScriptingHelpers","CSharpClass:LessCodeEngine.Sdk.Scripting.ScriptingHelpers"]]]]);
+﻿NDSearch.OnPrefixDataLoaded("scr",["Class"],[["ScriptingHelpers",,[["LessCodeEngine.Sdk.Scripting",,,,0,"File:Scripting/ScriptingHelpers.cs:LessCodeEngine.Sdk.Scripting.ScriptingHelpers","CSharpClass:LessCodeEngine.Sdk.Scripting.ScriptingHelpers"]]]]);

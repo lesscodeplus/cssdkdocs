@@ -1,1 +1,0 @@
-﻿NDSearch.OnPrefixDataLoaded("par",["Function"],[["ParseTemplateString",,[["LessCodeEngine.Helpers.HashMap",,,,0,"File:LessCodeEngine.Helpers/HashMap.cs:LessCodeEngine.Helpers.HashMap.ParseTemplateString","CSharpClass:LessCodeEngine.Helpers.HashMap:ParseTemplateString"]]]]);
