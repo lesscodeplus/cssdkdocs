@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("any",["Class"],[["AnyTypeArray",,[["LessCodeEngine.Helpers",,,,0,"File:LessCodeEngine.Helpers/AnyTypeArray.cs:LessCodeEngine.Helpers.AnyTypeArray","CSharpClass:LessCodeEngine.Helpers.AnyTypeArray"]]]]);

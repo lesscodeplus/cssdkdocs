@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bit",["Variable"],[["BitwiseComplement",,[["LessCodeEngine.Gizmos.Modules.ExpressionOperator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionOperator.BitwiseComplement","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionOperator:BitwiseComplement"]]]]);

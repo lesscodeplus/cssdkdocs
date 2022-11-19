@@ -1,0 +1,1 @@
+﻿NDSummary.OnToolTipsLoaded("File:LessCodeEngine.Gizmos/Blocks/MySql/RelationshipType.cs",{447:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype447\" class=\"NDPrototype\"><div class=\"PSection PPlainSection\"><span class=\"SHKeyword\">internal enum</span> RelationshipType</div></div></div>"});

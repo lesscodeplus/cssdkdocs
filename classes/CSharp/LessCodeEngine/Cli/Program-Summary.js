@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:LessCodeEngine.Cli.Program","Program");NDSummary.OnSummaryLoaded("CSharpClass:LessCodeEngine.Cli.Program",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1,0,0,"<span class=\"Qualifier\">LessCodeEngine.&#8203;Cli.</span>&#8203;Program"],[2,0,2,"Functions","Functions"],[3,0,1,"Main","Main"]]);

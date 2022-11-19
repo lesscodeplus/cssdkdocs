@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tof",["Class"],[["ToFixed",,[["LessCodeEngine.Gizmos.Blocks.Functions.Number",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Number/ToFixed.cs:LessCodeEngine.Gizmos.Blocks.Functions.Number.ToFixed","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Number.ToFixed"]]]]);

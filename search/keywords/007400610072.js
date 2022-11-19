@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tar",["Variable"],[["target",,[["LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.DelegateEncaps",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.DelegateEncaps.target","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.DelegateEncaps:target"]]]]);

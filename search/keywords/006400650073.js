@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("des",["Property"],[["Description",,[["LessCodeEngine.Sdk.LessCodeCommand",,,,0,"File:LessCodeEngine.Sdk/LessCodeCommand.cs:LessCodeEngine.Sdk.LessCodeCommand.Description","CSharpClass:LessCodeEngine.Sdk.LessCodeCommand:Description"]]]]);

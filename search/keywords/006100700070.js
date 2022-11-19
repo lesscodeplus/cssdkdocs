@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("app",["Variable"],[["appSettings",,[["LessCodeEngine.Dependencies.Configuration.ConfigurationManager",,,,0,"File:LessCodeEngine.Dependencies/Configuration/ConfigurationManager.cs:LessCodeEngine.Dependencies.Configuration.ConfigurationManager.appSettings","CSharpClass:LessCodeEngine.Dependencies.Configuration.ConfigurationManager:appSettings"]]]]);

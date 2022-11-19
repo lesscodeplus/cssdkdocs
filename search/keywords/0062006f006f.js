@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("boo",["Class"],[["BooleanVariable",,[["LessCodeEngine.Gizmos.Blocks.Variables",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Variables/BooleanVariable.cs:LessCodeEngine.Gizmos.Blocks.Variables.BooleanVariable","CSharpClass:LessCodeEngine.Gizmos.Blocks.Variables.BooleanVariable"]]]]);

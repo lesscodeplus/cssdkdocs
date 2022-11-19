@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("in",["Function"],[["In",,[["LessCodeEngine.Helpers.HelperMethods",,,,0,"File:LessCodeEngine.Helpers/HelperMethods.cs:LessCodeEngine.Helpers.HelperMethods.In","CSharpClass:LessCodeEngine.Helpers.HelperMethods:In"]]]]);

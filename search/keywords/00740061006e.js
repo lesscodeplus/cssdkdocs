@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tan",["Class"],[["Tan",,[["LessCodeEngine.Gizmos.Blocks.Functions.Number",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Number/Tan.cs:LessCodeEngine.Gizmos.Blocks.Functions.Number.Tan","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Number.Tan"]]]]);

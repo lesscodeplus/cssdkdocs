@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tak",["Class"],[["Take",,[["LessCodeEngine.Gizmos.Blocks.Functions.Logic",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Array/Take.cs:LessCodeEngine.Gizmos.Blocks.Functions.Logic.Take","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Logic.Take"]]]]);

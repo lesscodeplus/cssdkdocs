@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sla",["Class"],[["Slack",,[["LessCodeEngine.Gizmos.Blocks.ControlFlow",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Configuration/Slack.cs:LessCodeEngine.Gizmos.Blocks.ControlFlow.Slack","CSharpClass:LessCodeEngine.Gizmos.Blocks.ControlFlow.Slack"]]]]);

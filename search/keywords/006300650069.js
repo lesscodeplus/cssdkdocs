@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cei",["Class"],[["Ceiling",,[["LessCodeEngine.Gizmos.Blocks.Functions.Number",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Number/Ceiling.cs:LessCodeEngine.Gizmos.Blocks.Functions.Number.Ceiling","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Number.Ceiling"]]]]);

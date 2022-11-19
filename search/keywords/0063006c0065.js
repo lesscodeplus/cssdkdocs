@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cle",["Function"],[["ClearAllCaches",,[["LessCodeEngine.Gizmos.Modules.ExpressionEvaluator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.ClearAllCaches","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator:ClearAllCaches"]]]]);

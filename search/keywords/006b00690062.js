@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("kib",["Class"],[["Kibana",,[["LessCodeEngine.Gizmos.Blocks.ControlFlow",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Configuration/Kibana.cs:LessCodeEngine.Gizmos.Blocks.ControlFlow.Kibana","CSharpClass:LessCodeEngine.Gizmos.Blocks.ControlFlow.Kibana"]]]]);

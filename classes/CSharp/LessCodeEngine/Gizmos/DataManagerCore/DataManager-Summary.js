@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:LessCodeEngine.Gizmos.DataManagerCore.DataManager","DataManager");NDSummary.OnSummaryLoaded("CSharpClass:LessCodeEngine.Gizmos.DataManagerCore.DataManager",[["C#","CSharp"]],[["Classes","Class"]],[[583,0,0,"<span class=\"Qualifier\">LessCodeEngine.&#8203;Gizmos.&#8203;DataManagerCore.</span>&#8203;DataManager"]]);

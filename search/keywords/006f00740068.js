@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("oth",["Variable"],[["otherBasesNumberRegex",,[["LessCodeEngine.Gizmos.Modules.ExpressionEvaluator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.otherBasesNumberRegex","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator:otherBasesNumberRegex"]]]]);

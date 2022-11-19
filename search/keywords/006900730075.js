@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isu",["Property"],[["IsUnary",,[["LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode",,,,0,"File:LessCodeEngine.Gizmos/Blocks/ControlFlow/WorkFlowNode.cs:LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode.IsUnary","CSharpClass:LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode:IsUnary"]]]]);

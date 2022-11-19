@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ire",["Interface"],[["IRequestHandler",,[["LessCodeEngine.Sdk",,,,0,"File:LessCodeEngine.Sdk/IRequestHandler.cs:LessCodeEngine.Sdk.IRequestHandler","CSharpClass:LessCodeEngine.Sdk.IRequestHandler"]]]]);

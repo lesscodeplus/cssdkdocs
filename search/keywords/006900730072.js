@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isr",["Property"],[["IsRoot",,[["LessCodeEngine.Gizmos.Blocks.MySql.Helpers.NestedQuery",,,,0,"File:LessCodeEngine.Gizmos/Blocks/MySql/Helpers/NestedQuery.cs:LessCodeEngine.Gizmos.Blocks.MySql.Helpers.NestedQuery.IsRoot","CSharpClass:LessCodeEngine.Gizmos.Blocks.MySql.Helpers.NestedQuery:IsRoot"]]]]);

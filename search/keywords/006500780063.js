@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("exc",["Property"],[["Exception",,[["LessCodeEngine.Gizmos.Modules.BubbleExceptionContainer",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.BubbleExceptionContainer.Exception","CSharpClass:LessCodeEngine.Gizmos.Modules.BubbleExceptionContainer:Exception"]]]]);

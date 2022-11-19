@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tru",["Class"],[["Truncate",,[["LessCodeEngine.Gizmos.Blocks.Functions.Number",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Number/Truncate.cs:LessCodeEngine.Gizmos.Blocks.Functions.Number.Truncate","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Number.Truncate"]]]]);

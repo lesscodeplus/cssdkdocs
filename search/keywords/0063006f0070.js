@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cop",["Function"],[["Copy",,[["LessCodeEngine.Gizmos.Modules.OperatorsEvaluationsExtensions",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.OperatorsEvaluationsExtensions.Copy","CSharpClass:LessCodeEngine.Gizmos.Modules.OperatorsEvaluationsExtensions:Copy"]]]]);

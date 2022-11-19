@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tot",["Class"],[["ToTimeStamp",,[["LessCodeEngine.Gizmos.Blocks.Functions.DateTimeFunctions",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/DateTimeFunctions/ToTimeStamp.cs:LessCodeEngine.Gizmos.Blocks.Functions.DateTimeFunctions.ToTimeStamp","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.DateTimeFunctions.ToTimeStamp"]]]]);

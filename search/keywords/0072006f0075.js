@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rou",["Class"],[["Round",,[["LessCodeEngine.Gizmos.Blocks.Functions.Number",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Number/Round.cs:LessCodeEngine.Gizmos.Blocks.Functions.Number.Round","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Number.Round"]]]]);

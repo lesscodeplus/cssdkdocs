@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tim",["Property"],[["TimeStamp",,[["LessCodeEngine.Sdk.ExecutionFlowLog",,,,0,"File:LessCodeEngine.Sdk/ExecutionFlowLog.cs:LessCodeEngine.Sdk.ExecutionFlowLog.TimeStamp","CSharpClass:LessCodeEngine.Sdk.ExecutionFlowLog:TimeStamp"]]]]);

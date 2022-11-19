@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lin",["Constant"],[["lineComments",,[["LessCodeEngine.Gizmos.Modules.ExpressionEvaluator",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator.lineComments","CSharpClass:LessCodeEngine.Gizmos.Modules.ExpressionEvaluator:lineComments"]]]]);

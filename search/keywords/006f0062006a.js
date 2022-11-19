@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("obj",["Class"],[["ObjectVariable",,[["LessCodeEngine.Gizmos.Blocks.Variables",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Variables/ObjectVariable.cs:LessCodeEngine.Gizmos.Blocks.Variables.ObjectVariable","CSharpClass:LessCodeEngine.Gizmos.Blocks.Variables.ObjectVariable"]]]]);

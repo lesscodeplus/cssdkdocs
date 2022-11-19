@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("giz",["Class"],[["GizmoLoader",,[["LessCodeEngine.Gizmos",,,,0,"File:LessCodeEngine.Gizmos/GizmoLoader.cs:LessCodeEngine.Gizmos.GizmoLoader","CSharpClass:LessCodeEngine.Gizmos.GizmoLoader"]]]]);

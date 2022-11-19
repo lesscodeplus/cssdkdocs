@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bub",["Class"],[["BubbleExceptionContainer",,[["LessCodeEngine.Gizmos.Modules",,,,0,"File:LessCodeEngine.Gizmos/Modules/ExpressionEvaluator.cs:LessCodeEngine.Gizmos.Modules.BubbleExceptionContainer","CSharpClass:LessCodeEngine.Gizmos.Modules.BubbleExceptionContainer"]]]]);

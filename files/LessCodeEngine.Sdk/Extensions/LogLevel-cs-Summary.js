@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:LessCodeEngine.Sdk/Extensions/LogLevel.cs","LogLevel.cs");NDSummary.OnSummaryLoaded("File:LessCodeEngine.Sdk/Extensions/LogLevel.cs",[["C#","CSharp"]],[["Enums","Enumeration"],["Groups","Group"]],[[790,0,1,"Types","LessCodeEngine.Sdk.Types"],[791,0,0,"LogLevel","LessCodeEngine.Sdk.LogLevel"]]);

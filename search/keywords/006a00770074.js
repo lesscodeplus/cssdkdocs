@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("jwt",["Class"],[["JwtAuth",,[["LessCodeEngine.Gizmos.Blocks.Security",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Security/JwtAuth.cs:LessCodeEngine.Gizmos.Blocks.Security.JwtAuth","CSharpClass:LessCodeEngine.Gizmos.Blocks.Security.JwtAuth"]]]]);

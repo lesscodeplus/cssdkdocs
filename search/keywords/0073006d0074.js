@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("smt",["Class"],[["SmtpEmail",,[["LessCodeEngine.Gizmos.Blocks.Integration",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Integration/SmtpEmail.cs:LessCodeEngine.Gizmos.Blocks.Integration.SmtpEmail","CSharpClass:LessCodeEngine.Gizmos.Blocks.Integration.SmtpEmail"]]]]);

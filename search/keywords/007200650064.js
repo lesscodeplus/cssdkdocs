@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("red",["Class"],[["RedisManager",,[["LessCodeEngine.GizmoLibraries.Redis",,,,0,"File:LessCodeEngine.GizmoLibraries/Redis/RedisManager.cs:LessCodeEngine.GizmoLibraries.Redis.RedisManager","CSharpClass:LessCodeEngine.GizmoLibraries.Redis.RedisManager"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isl",["Property"],[["IsLogical",,[["LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode",,,,0,"File:LessCodeEngine.Gizmos/Blocks/ControlFlow/WorkFlowNode.cs:LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode.IsLogical","CSharpClass:LessCodeEngine.Gizmos.Blocks.ControlFlow.WorkFlowNode:IsLogical"]]]]);

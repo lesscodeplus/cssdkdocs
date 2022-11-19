@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("key",["Class"],[["Keys",,[["LessCodeEngine.Gizmos.Blocks.Functions.Object",,,,0,"File:LessCodeEngine.Gizmos/Blocks/Functions/Object/Keys.cs:LessCodeEngine.Gizmos.Blocks.Functions.Object.Keys","CSharpClass:LessCodeEngine.Gizmos.Blocks.Functions.Object.Keys"]]]]);
